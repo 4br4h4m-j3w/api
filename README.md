@@ -1,0 +1,2 @@
+## Реализация методов API
+В файле `config.ini` прописываются значения полученных `APP_ID` и `API_SECRET`. В файле `methods.py` описана непосредственная реализация методов для обращения к API, описанному на https://api.fastpayments.pro/api/documentation
